@@ -51,7 +51,6 @@
   <h2>Our Projects</h2>
   <img src="download.webp" alt="PEB Building" width="300">
   <img src="OIP (1).webp" alt="Perfect Planning" width="300">
-  <img src="project.1" alt="Commercial Site" width="300">
 </section>
 
   <section>
