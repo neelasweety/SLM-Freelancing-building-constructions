@@ -5,12 +5,12 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: green;
+      background-color: pink;
       padding: 20px;
       color: #333;
     }
     header, section {
-      background: #fff;
+      background: red;
       margin-bottom: 20px;
       padding: 20px;
       border-radius: 10px;
