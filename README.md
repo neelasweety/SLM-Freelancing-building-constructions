@@ -1,4 +1,4 @@
-index.html
+
 <html>
 <head>
   <title>SLM Freelance Construction Company</title>
