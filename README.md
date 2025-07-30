@@ -16,7 +16,7 @@
       border-radius: 10px;
     }
     h1, h2 {
-      color: #004d99;
+      color: Black;
     }
     ul {
       padding-left: 20px;
